@@ -7,7 +7,7 @@ version = "0.2.3"
 edition = "2024"
 rust-version = "1.85"
 license = "MIT"
-repository = "https://github.com/justusschock/zellij-workspaces"
+repository = "https://github.com/justusperillieux/zellij-workspaces"
 authors = ["Justus Perillieux <justus@perillieux.com>"]
 
 [workspace.lints.rust]
