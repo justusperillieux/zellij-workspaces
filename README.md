@@ -23,7 +23,7 @@ the creation flow immediately offers new or edited templates:
 
 Each version tag publishes native `zellij-workspaces` archives for Linux and
 macOS on x86_64 and ARM64, plus `session-ui.wasm` and `SHA256SUMS`, on the
-[GitHub Releases page](https://github.com/justusschock/zellij-workspaces/releases).
+[GitHub Releases page](https://github.com/justusperillieux/zellij-workspaces/releases).
 Tags must match the Cargo workspace version, for example `v0.1.0`.
 
 ## Build and install
